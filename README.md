@@ -1,1 +1,1 @@
-# brainwave_fft
+# 儲存並處理腦波數據
